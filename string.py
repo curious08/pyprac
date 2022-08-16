@@ -10,3 +10,6 @@ print(name[1:])
 print(name[:4])
 print(name[:])
 print(name*3)
+
+c='a'
+print(type(c))#str
